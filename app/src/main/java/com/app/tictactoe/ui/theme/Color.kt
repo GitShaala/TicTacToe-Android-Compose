@@ -9,3 +9,8 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+val colorArray = listOf<Color>(Color(0xFF432e93), Color(0xFF5e42b6), Color(0xFF2a1c53))
+val gradiantColorArray = listOf<Color>(Color(0xFF342286), Color(0xFF301f7b), Color(0xFF251460))
+
+
